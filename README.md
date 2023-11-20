@@ -10,7 +10,9 @@ The details of this project could be accessed through this document:
 [Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv)
 
 ## Project Structure
+
 This project is will implementing Cross Industry Standard Process for Data Mining (CRISP - DM), which includes
+
 1. Business Understanding
 2. Data Understanding
 3. Data Preparation
@@ -19,15 +21,17 @@ This project is will implementing Cross Industry Standard Process for Data Minin
 6. Deployment
 
 However, we wil separate it into two main phase
+
 - Data Preprocessing
 - Modeling
 
 ### Data Preprocessing
+
 1. Data Cleaning
 2. Data Integration
 3. Data Reduction
 4. Data Transformation
 
 ### Modeling
-1. Implementing Multi Linear Regression model
 
+1. Implementing Multi Linear Regression model
