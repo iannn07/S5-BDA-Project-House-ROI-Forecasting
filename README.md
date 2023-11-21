@@ -28,9 +28,7 @@ However, we wil separate it into two main phase
 ### Data Preprocessing
 
 1. Data Cleaning
-2. Data Integration
-3. Data Reduction
-4. Data Transformation
+2. Data Reduction
 
 ### Modeling
 
