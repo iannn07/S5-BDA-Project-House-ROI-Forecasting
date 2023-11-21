@@ -9,6 +9,8 @@ The details of this project could be accessed through this document:
 
 [Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv)
 
+[Cleaned Melbourne Housing Market](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/1.%20Data%20Pre-Processing/MELBOURNE_CLEANED_DATASET.csv)
+
 ## Project Structure
 
 This project is will implementing Cross Industry Standard Process for Data Mining (CRISP - DM), which includes
