@@ -24,7 +24,7 @@ This project is will implementing Cross Industry Standard Process for Data Minin
 
 However, we wil separate it into two main phase
 
-- Data Preprocessing
+- [Data Preprocessing](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/1.%20Data%20Pre-Processing/Data%20Preprocessing.ipynb)
 - Modeling
 
 ### Data Preprocessing
