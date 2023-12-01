@@ -13,7 +13,7 @@ The details of this project could be accessed through this document:
 
 ## Project Structure
 
-This project is will implementing Cross Industry Standard Process for Data Mining (CRISP - DM), which includes
+This project is will implementing Cross Industry Standard Process for Data Mining (CRISP - DM), which includes:
 
 1. Business Understanding
 2. Data Understanding
@@ -22,15 +22,18 @@ This project is will implementing Cross Industry Standard Process for Data Minin
 5. Evaluation
 6. Deployment
 
-However, we wil separate it into two main phase
+However, we wil separate it into several phases as follows:
 
 - [Data Preprocessing](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/1.%20Data%20Pre-Processing/Data%20Preprocessing.ipynb)
+- Checking the OLS Assumptions
 - Modeling
 
 ### Data Preprocessing
 
 1. Data Cleaning
 2. Data Reduction
+
+### Checking the OLS Assumptions
 
 ### Modeling
 
