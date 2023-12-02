@@ -36,8 +36,9 @@ However, we wil separate it into several phases as follows:
 
 ### Modeling
 
-1. Multi Linear Regression
+1. [Multi Linear Regression](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/tree/main/Multiple%20Linear%20Regression)
 2. Logistic Regression
 
-# Summary
+## Summary
+
 We could say that the data is not well-suited for regression analysis, and this issue indicates that the data is not linear. You could see the result of this dataset analysis in [here](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/4.%20Modeling/Modeling.ipynb).
