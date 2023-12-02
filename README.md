@@ -36,7 +36,8 @@ However, we wil separate it into several phases as follows:
 
 ### Modeling
 
-1. Implementing Multi Linear Regression model
-   
+1. Multi Linear Regression
+2. Logistic Regression
+
 # Summary
 We could say that the data is not well-suited for regression analysis, and this issue indicates that the data is not linear. You could see the result of this dataset analysis in [here](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/4.%20Modeling/Modeling.ipynb).
