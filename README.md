@@ -26,16 +26,17 @@ However, we wil separate it into several phases as follows:
 
 - [Data Preprocessing](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/1.%20Data%20Pre-Processing/Data%20Preprocessing.ipynb)
 - [Checking the OLS Assumptions](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/2.%20OLS%20Assumptions/OLS%20Assumptions.ipynb)
-- Dummy Variables
-- Modeling
+- [Dummy Variables](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/3.%20Dummy%20Variables/Dummy%20Variables.ipynb)
+- [Modeling](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/4.%20Modeling/Modeling.ipynb)
 
 ### Data Preprocessing
 
 1. Data Cleaning
 2. Data Reduction
 
-### Checking the OLS Assumptions
-
 ### Modeling
 
 1. Implementing Multi Linear Regression model
+   
+# Summary
+We could say that the data is not well-suited for regression analysis, and this issue indicates that the data is not linear. You could see the result of this dataset analysis in [here](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/4.%20Modeling/Modeling.ipynb).
