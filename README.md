@@ -37,8 +37,19 @@ However, we wil separate it into several phases as follows:
 ### Modeling
 
 1. [Multi Linear Regression](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/tree/main/Multiple%20Linear%20Regression)
-2. Neural Network
+2. [Neural Network](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/Neural%20Network/Neural%20Network.ipynb)
 
-## Summary
+## Conclusion
 
 We could say that the data is not well-suited for regression analysis, and this issue indicates that the data is not linear. You could see the result of this dataset analysis in [here](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/blob/main/4.%20Modeling/Modeling.ipynb).
+
+While using the Neural Network, we obtain better results in its accuracy by looking at its MSE, MAE, and RMSE. However, there's something unique in this Regression Analysis: the R-Squared. Below is the summary result of both models:
+
+| Performance Measure | Multiple Linear Regression | Neural Network     |
+| ------------------- | -------------------------- | ------------------ |
+| R-Squared           | 0.5926448818238725         | 0.5237713739630026 |
+| MSE                 | 1.2604419499246601e+26     | 84018888704.0      |
+| MAE                 | 579344653273.0378          | 192391.421875      |
+| RMSE                | 11226940589157.227         | 289860.11920234904 |
+
+Thus, in short the best model for this data is a non-linear model.
