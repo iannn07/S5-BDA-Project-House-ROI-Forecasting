@@ -37,7 +37,7 @@ However, we wil separate it into several phases as follows:
 ### Modeling
 
 1. [Multi Linear Regression](https://github.com/iannn07/S5-BDA-Project-House-ROI-Forecasting/tree/main/Multiple%20Linear%20Regression)
-2. Logistic Regression
+2. Neural Network
 
 ## Summary
 
